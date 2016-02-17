@@ -1,0 +1,1 @@
+web: gunicorn mozio_test.wsgi --log-file -
